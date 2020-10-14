@@ -1,15 +1,10 @@
 <template>
-  <footer class="page-footer font-small teal py-4">
-    <div class="footer-copyright text-center">Designed and coded by:
-      <a target="_blank" rel="noopener" href="https://loke.dev/"> Loke Carlsson</a>
-    </div>
-  </footer>
+  <footer class="justify-self-end"></footer>
 </template>
 
-<style lang="scss">
+<style lang="scss" scoped>
 footer {
-  width: 100%;
-  margin-top: 6rem;
-  background-color: #f5f5f5;
+  height: 250px;
+  background-color: #3bba95; // primary
 }
 </style>
