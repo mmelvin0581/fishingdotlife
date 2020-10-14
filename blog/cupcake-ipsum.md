@@ -19,3 +19,32 @@ image: ''
 \[TODO: insert dauphin island images here\]
 
     Our ride out was awesome. I'd guess that it was about an hours worth of dual 300 Evinrudes pushing a 24 footer, you do that math. We were over a wreck in about 75 feet of water, the four of us using Penn Squall 30's with knocker rigs. I didn't know by looking, at least not then, but we were using knocker rigs with what looked like a 6 oz egg weight and a 4/0 or 5/0 circle hook. I have no idea what weight class the rod was, nor did I know the test of the mono that the reel was spooled with. If I had to guess, I'd guess it was a 6ft 50-80lb class rod with 50lb test. For bait we were using thawed pogies hooked through the eye. We let the bait drop for a ten second count and hung on. It was instant action! My son, with the help of the deckhand, and I caught a limit and the fishing fever.
+
+### The splurge
+
+### Right gear, no fish...
+
+### Time to make a plan
+
+### That's a lot of plans
+
+## Why should you read my blogs and watch my videos?
+
+* learn along with me
+* gear reviews
+* entertaining
+
+## Where do I want Fishing.Life to go?
+
+* I’m happy just doing this
+* I want to catch more fish
+* I want to start/grow my social media following
+* I want to start a fishing charter
+* I want fulfillment and peace
+
+## Conclusion
+
+* come on the journey
+* remember why I started
+* remind readers why they want to read
+* envision where we want to go
