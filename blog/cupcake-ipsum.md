@@ -1,17 +1,18 @@
 ---
-title: Cupcake ipsum
-excerpt: Cupcake ipsum dolor. Sit amet fruitcake jelly-o pie ice cream. Candy jujubes croissant donut oat cake jelly-o brownie jelly-o.
-date: 2019-04-18 17:00:00 +0000
-author: Loke Carlsson
-image: "https://res.cloudinary.com/drx9eb4fx/image/upload/v1602621679/shell-key-trout-06.jpg"
+title: Fishing.Life and why I started it
+excerpt: I started Fishing.Life so that I had a place to keep all of my notes, pictures,
+  and videos. I needed a place to store my memories.
+date: 2020-10-14 02:14:00 +0000
+author: Michael Melvin
+image: ''
+
 ---
+# Fishing.Life? 
 
-Cupcake ipsum dolor. Sit amet fruitcake jelly-o pie ice cream. Candy jujubes croissant donut oat cake jelly-o brownie jelly-o. Cotton candy sweet cheesecake topping cake tiramisu tart. Chocolate cake powder caramels carrot cake carrot cake sugar plum powder. Danish lemon drops chocolate liquorice marzipan halvah. Cake powder pudding tiramisu. Cheesecake jelly pudding tart jelly-o gingerbread chocolate halvah. Ice cream jujubes liquorice ice cream candy canes oat cake croissant. Biscuit danish carrot cake tart carrot cake dragée pastry. Ice cream bonbon chocolate cotton candy sesame snaps chocolate pudding wafer ice cream. Brownie tart jelly-o gingerbread bear claw pastry sweet roll biscuit.
+Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing. I've caught a lot of firsts, as you'll see below, but I haven't quite been able to "dial in" any specific species. That proved frustrating to me. This blog is part of the result. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, here we are. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. You can even contact me if you want to save me a mistake! I just want everybody to catch fish.
 
-Chocolate cake oat cake oat cake pastry ice cream dessert chocolate. Dragée cheesecake chocolate cake pastry oat cake brownie biscuit cupcake. Cookie lemon drops jelly beans cake jelly-o sweet roll chocolate jelly halvah. Cupcake ice cream bear claw carrot cake croissant jelly beans sugar plum liquorice. Donut pastry gingerbread cake. Macaroon sweet fruitcake macaroon. Gummi bears ice cream cookie oat cake muffin bonbon donut brownie jujubes. Cookie soufflé brownie liquorice cupcake croissant. Marshmallow liquorice pie pie. Jelly danish lollipop chocolate cake marzipan sweet liquorice. Topping danish sweet biscuit. Tootsie roll bonbon jujubes tart ice cream powder jelly beans. Chocolate cake marzipan sugar plum liquorice macaroon bear claw carrot cake gummi bears chocolate cake. Gummi bears fruitcake danish gingerbread.
+## In the beginning
 
-Lollipop brownie pie chocolate cake muffin bonbon cupcake jelly beans. Dessert toffee donut candy soufflé donut. Marshmallow toffee lemon drops marzipan chupa chups biscuit marzipan tootsie roll candy. Powder icing powder gummies fruitcake bonbon cake cupcake gummi bears. Chocolate cake cupcake apple pie. Sweet roll lollipop jujubes candy tart tart. Toffee dessert oat cake wafer sweet dragée halvah gingerbread cookie. Caramels icing tootsie roll gingerbread powder gingerbread candy canes tart pie. Powder apple pie cotton candy oat cake candy canes topping. Marzipan bonbon toffee muffin gingerbread carrot cake. Dessert apple pie pudding. Lollipop carrot cake soufflé croissant candy carrot cake.
+I fished my families two small ponds when I was growing up on the outskirts of Savannah, Georgia. It had bluegill trained on hotdogs, catfish big enough to eat a whole slice of bread in one bite, and largemouth bass up to about two pounds. It was nothing special, and I could do it whenever I wanted. I quickly became bored with fishing and by the time I was in my teens I didn't fish at all. Fast forward now until I'm 30ish, married with children, and on a trip to a Dauphin Island, Alabama beach house. My lovely wife's twin cousin's and their dad, and my son and I decide we should go on an offshore fishing charter! Best. Idea. Ever.
 
-Halvah halvah pudding dragée. Cake pastry chocolate bar sweet cupcake pie ice cream gingerbread. Ice cream dragée jujubes jujubes pie jelly. Gingerbread ice cream gummies powder gummi bears chocolate sweet. Sweet roll carrot cake pastry cookie bear claw. Ice cream chocolate bar pudding sweet dragée. Gummies jujubes donut cupcake sugar plum. Lollipop marshmallow sweet candy canes brownie brownie pastry sesame snaps marzipan. Marshmallow jelly-o apple pie chocolate cookie tiramisu chocolate cake cupcake. Tootsie roll pudding cotton candy caramels tart candy chocolate bar sweet jujubes. Gummies chocolate bar cake soufflé. Donut tart pie oat cake chupa chups tootsie roll. Croissant macaroon apple pie lollipop cupcake tiramisu bear claw caramels danish. Lollipop soufflé pie cake tootsie roll macaroon.
-
-Macaroon sesame snaps jujubes jelly pie danish. Sweet pudding gummies tiramisu toffee oat cake. Cake tootsie roll cookie tootsie roll. Gummies candy canes topping. Oat cake bonbon icing sugar plum dessert. Cupcake gingerbread bonbon jelly. Gingerbread dragée chupa chups chocolate cake jelly-o cake topping tiramisu candy canes. Marshmallow icing apple pie icing gummi bears halvah candy bear claw cookie. Sweet chupa chups wafer gummi bears tart danish marzipan. Jujubes croissant gingerbread. Fruitcake tart lollipop muffin jelly-o pastry candy canes gummi bears. Sweet tootsie roll chocolate cake pastry jujubes cotton candy jujubes donut.
+It was red snapper season. Need I say more? I didn't know it then, but boy was I in for the best rude awakening into saltwater fishing.
