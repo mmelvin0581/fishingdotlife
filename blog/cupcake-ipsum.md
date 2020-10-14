@@ -14,13 +14,24 @@ image: ''
 
 ## In the beginning
 
-<p>I fished my families two small ponds when I was growing up on the outskirts of Savannah, Georgia. It had bluegill trained on hotdogs, catfish big enough to eat a whole slice of bread in one bite, and largemouth bass up to about two pounds. It was nothing special, and I could do it whenever I wanted. I quickly became bored with fishing and by the time I was in my teens I didn't fish at all. Fast forward now until I'm 30ish, married with children, and on a trip to a Dauphin Island, Alabama beach house. My son and I decide on a whim that we should go on an offshore fishing charter! Best. Idea. Ever. We booked a four hour trip with \\\[TODO: insert charter link here\\\]. It was red snapper season. Need I say more? I didn't know it then, but boy was I in for the best rude awakening into saltwater fishing.</p>
+<p>I fished my families two small ponds when I was growing up on the outskirts of Savannah, Georgia. It had bluegill trained on hotdogs, catfish big enough to eat a whole slice of bread in one bite, and largemouth bass up to about two pounds. It was nothing special, and I could do it whenever I wanted. I quickly became bored with fishing and by the time I was in my teens I didn't fish at all. Fast forward now until I'm 30ish, married with children, and on a trip to a Dauphin Island, Alabama beach house. My son and I decide on a whim that we should go on an offshore fishing charter! Best. Idea. Ever. We booked a four hour trip with (TODO: insert charter link here). It was red snapper season. Need I say more? I didn't know it then, but boy was I in for the best rude awakening into saltwater fishing.</p>
 
-\[TODO: insert dauphin island images here\]
+(TODO: insert dauphin island images here)
 
 <p>Our ride out was awesome. I'd guess that it was about an hours worth of dual 300 Evinrudes pushing a 24 footer, you do that math. We were over a wreck in about 75 feet of water, the four of us using Penn Squall 30's with knocker rigs. I didn't know by looking, at least not then, but we were using knocker rigs with what looked like a 6 oz egg weight and a 4/0 or 5/0 circle hook. I have no idea what weight class the rod was, nor did I know the test of the mono that the reel was spooled with. If I had to guess, I'd guess it was a 6ft 50-80lb class rod with 50lb test. For bait we were using thawed pogies hooked through the eye. We let the bait drop for a ten second count and hung on. It was instant action! My son, with the help of the deckhand, and I caught a limit and the fishing fever.</p>
 
 ### The splurge
+
+<p>With fishing fever in full effect, I did what anyone with that sickness would do. I started purchasing lots of gear. I less than a years time, I had amassed a decent collection of rods, reels, and tackle. Here is the a current list of all of my rods and reels. I won't list all of the tackle, but I do go over that in my planning and fishing blogs in detail.</p>
+
+#### Current rods and reels
+
+(TODO: insert image of rods and reels)
+
+* Tsunami SaltX 6000 spooled with 30 lb Invisibraid on an 8ft XH Tsunami Carbon Shield.
+  * detail reel specs
+  * detail rod specs
+* (TODO: detail rods and reels)
 
 ### Right gear, no fish...
 
