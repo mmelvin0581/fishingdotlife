@@ -65,9 +65,4 @@ image: ''
 
 ## Conclusion
 
-* come on the journey
-* remember why I started
-* remind readers why they want to read
-* envision where we want to go
-
 <p>I started this to store memories and to help me and anyone who reads along to catch more fish. If catching more fish sounds good to you or if you just like reading a good fish story, I hope you will join me on future posts and fishing adventures. You've already read this far, right?.</p>
