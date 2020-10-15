@@ -10,11 +10,11 @@ image: ''
 ---
 # Fishing.Life?
 
-<p>Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing. I've caught a lot of firsts, as you'll see below, but I haven't quite been able to "dial in" any specific species. That proved frustrating to me. This blog is part of the result. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, here we are. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. You can even contact me if you want to save me a mistake! I just want everybody to catch fish.</p>
+<p>Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing. I've caught a lot of firsts, as you'll see, but I haven't quite been able to "dial in" any specific species. That proved frustrating to me. This blog is part of the result. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, here we are. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. I even encourage you contact me if you want to save me a mistake! I just want everybody to catch fish.</p>
 
 ## Why should you read my blogs and watch my videos?
 
-<p>If you're reading this, you probably want to catch more fish, or you just like a good fishing story. Either way, it should be entertaining. There will be gear reviews and spot dissections, big fish and bigger fails, plenty of fishing stories, and. Hopefully my mistakes can save you some disappointment and my successes can spill over to you.</p>
+<p>If you're reading this, you probably want to catch more fish too, or you just like a good fishing story. Either way, it should be entertaining. There will be gear reviews and spot dissections, big fish and bigger fails, and plenty of fishing stories. Hopefully my mistakes can save you some disappointment and my successes can spill over to you.</p>
 
 ## In the beginning
 
