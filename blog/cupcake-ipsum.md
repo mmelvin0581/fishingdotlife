@@ -10,32 +10,44 @@ image: ''
 ---
 # Fishing.Life?
 
-<p>Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing. I've caught a lot of firsts, as you'll see, but I haven't quite been able to "dial in" any specific species. That proved frustrating to me. This blog is part of the result. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, here we are. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. I even encourage you contact me if you want to save me a mistake! I just want everybody to catch fish.</p>
+<p>Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing and content creation. I've caught a lot of firsts, as you'll see, but I haven't quite been able to "dial in" any specific species. This blog is somewhat of a result of that frustration. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos and be able to share them with others. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, an online blog was the obvious choice. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. I even encourage you contact me if you want to save me a mistake! I just want everybody to catch fish. There will be gear reviews and spot dissections, big fish and bigger fails, and plenty of fishing stories. I even tell you exactly where I was fishing.</p>
 
-## Why should you read my blogs and watch my videos?
-
-<p>If you're reading this, you probably want to catch more fish too, or you just like a good fishing story. Either way, it should be entertaining. There will be gear reviews and spot dissections, big fish and bigger fails, and plenty of fishing stories. Hopefully my mistakes can save you some disappointment and my successes can spill over to you.</p>
+<p>If you're still reading, you probably want to catch more fish like I do, or you appreciate a well told fishing story. Either way, I hope to surpass your expectations. Hopefully my mistakes can save you some disappointment and my wins can spill over to you. Maybe I'll even see you out the flats one day. If I've got your interest, don't forget to head down to the footer and reach out to me on social media. Then finish reading this post if you'd like to know more about Fishing.Life.</p>
 
 ## In the beginning
 
-<p>I fished my families two small ponds when I was growing up on the outskirts of Savannah, Georgia. It had bluegill trained on hotdogs, catfish big enough to eat a whole slice of bread in one bite, and largemouth bass up to about two pounds. It was nothing special, and I could do it whenever I wanted. I quickly became bored with fishing and by the time I was in my teens I didn't fish at all. Fast forward now until I'm 30ish, married with children, and on a trip to a Dauphin Island, Alabama beach house. My son and I decide on a whim that we should go on an offshore fishing charter! Best. Idea. Ever. We booked a four hour trip with (TODO: insert charter link here). It was red snapper season. Need I say more? I didn't know it then, but boy was I in for the best rude awakening into saltwater fishing.</p>
+<p>I fished my family's two small ponds when I was growing up on the outskirts of Savannah, Georgia. It had bluegill trained on hotdogs, catfish big enough to eat a whole slice of bread in one bite, and largemouth bass up to about two pounds. It was nothing special, and I could do it whenever I wanted. I quickly became bored with fishing and by the time I was in my teens I didn't fish at all. Fast forward until recently, I'm thirty-ish, married with children, and on a trip to a Dauphin Island, Alabama beach house. My son and I decide on a whim that we should go on an offshore fishing charter while we are there! Best. Idea. Ever. We booked a four hour trip with (TODO: insert charter link here). It was red snapper season. Need I say more? I didn't know it then, but boy was I in for the best awakening into saltwater fishing.</p>
 
 (TODO: insert dauphin island images here)
 
-<p>Our ride out was awesome. I'd guess that it was about an hours worth of dual 300 Evinrudes pushing a 24 footer, you do that math. We were over a wreck in about 75 feet of water, the four of us using Penn Squall 30's with knocker rigs. I didn't know by looking, at least not then, but we were using knocker rigs with what looked like a 6 oz egg weight and a 4/0 or 5/0 circle hook. I have no idea what weight class the rod was, nor did I know the test of the mono that the reel was spooled with. If I had to guess, I'd guess it was a 6ft 50-80lb class rod with 50lb test. For bait we were using thawed pogies hooked through the eye. We let the bait drop for a ten second count and hung on. It was instant action! My son, with the help of the deckhand, and I caught a limit and the fishing fever.</p>
+<p>Our ride out was awesome. I'd guess that it was about an hours worth of dual 300 Evinrudes pushing a 24 footer, you do that math and tell me the distance we were out. We were over a wreck in about 75 feet of water, using Penn Squall 30's. We were using knocker rigs with what looked like a 6 oz egg weight and a 4/0 or 5/0 circle hook. I have no idea what weight class the rod was, nor did I know the test of the mono that the reel was spooled with. If I had to guess, I'd say it was a 6ft 50-80 lb class rod and the Squall was spooled with 50lb test monofilament. For bait we were using thawed pogies hooked through the eyes. We let the bait drop for a ten second count and hung on. It was instant action! My son and I caught a limit and I caught the fishing fever.</p>
 
 ### The splurge
 
-<p>With fishing fever in full effect, I did what anyone with that sickness would do. I started purchasing lots of gear. I less than a years time, I had amassed a decent collection of rods, reels, and tackle. Here is the a current list of all of my rods and reels. I won't list all of the tackle, but I do go over that in my planning and fishing blogs in detail.</p>
+<p>With fishing fever in full effect, I did what anyone with that sickness would do. I started purchasing lots of gear. I less than a years time, I had amassed a small collection of rods, reels, and tackle. Here is the a current list of all of my rods and reels. I won't list all of the tackle, but I do go over that in my planning and fishing blogs in detail. Every trip you'll know exactly where I fished, the tides, wind, water temp, baits, rigs, and rather or not I was in a kayak, SUP, boat or on foot.</p>
 
 #### Current rods and reels
 
 (TODO: insert image of rods and reels)
 
 * Tsunami SaltX 6000 spooled with 30 lb Invisibraid on an 8ft XH Tsunami Carbon Shield.
-  * detail reel specs
-  * detail rod specs
-* (TODO: detail rods and reels)
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
+* Penn Fierce 3 6000 9ft surf combo spooled with 30 lb PowerPro
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
+* Penn Spinfisher 4500 spooled with 15 lb PowerPro on a 7ft Star rod
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
+* Penn Battle 2 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
+* Diawa Fuego LT 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
+* Diawa Fuego LT 2500 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: insert image of rods and reels)detail reel specs
+  * (TODO: insert image of rods and reels)detail rod specs
 
 ### Right gear, no fish...
 
