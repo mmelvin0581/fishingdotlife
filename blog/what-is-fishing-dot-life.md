@@ -1,14 +1,13 @@
 ---
 title: What is Fishing.Life?
-excerpt:
-  I started Fishing.Life so that I had a place to keep all of my notes, pictures,
+excerpt: I started Fishing.Life so that I had a place to keep all of my notes, pictures,
   and videos. I needed a place to store my memories. I'm a web application developer
   and everything lasts forever on the internet so, here we are.
-date: 2020-10-14 02:14:00 +0000
+date: 2020-10-14T02:14:00.000+00:00
 author: Michael Melvin
-image: ""
----
+image: ''
 
+---
 # Fishing.Life?
 
 <p>Fishing.Life is about my journey pursuing my hobby of inshore saltwater fishing and content creation. I've caught a lot of firsts, as you'll see, but I haven't quite been able to "dial in" any specific species. This blog is somewhat of a result of that frustration. I started Fishing.Life so that I had a place to keep all of my notes, pictures, and videos and be able to share them with others. I needed a place to store my memories. I'm a web application developer and everything lasts forever on the internet so, an online blog was the obvious choice. These memories can also serve you on your fishing journey. Learn by my mistakes instead of your own, saving you valuable time, money, and disappointment. I even encourage you contact me if you want to save me a mistake! I just want everybody to catch fish. There will be gear reviews and spot dissections, big fish and bigger fails, and plenty of fishing stories. I even tell you exactly where I was fishing.</p>
@@ -31,24 +30,24 @@ image: ""
 
 (TODO: insert image of rods and reels)
 
-- Tsunami SaltX 6000 spooled with 30 lb Invisibraid on an 8ft XH Tsunami Carbon Shield.
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
-- Penn Fierce 3 6000 9ft surf combo spooled with 30 lb PowerPro
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
-- Penn Spinfisher 4500 spooled with 15 lb PowerPro on a 7ft Star rod
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
-- Penn Battle 2 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
-- Diawa Fuego LT 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
-- Diawa Fuego LT 2500 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
-  - (TODO: detail reel and rod specs)
-  - (TODO: detail reel and rod specs)
+* Tsunami SaltX 6000 spooled with 30 lb Invisibraid on an 8ft XH Tsunami Carbon Shield
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
+* Penn Fierce 3 6000 9ft surf combo spooled with 30 lb PowerPro
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
+* Penn Spinfisher 4500 spooled with 15 lb PowerPro on a 7ft Star rod
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
+* Penn Battle 2 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
+* Diawa Fuego LT 3000 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
+* Diawa Fuego LT 2500 spooled with 10 lb PowerPro on a Temple Fork Outfitters rod
+  * (TODO: detail reel and rod specs)
+  * (TODO: detail reel and rod specs)
 
 ### Right gear, no fish...
 
@@ -66,9 +65,9 @@ image: ""
 
 ## Conclusion
 
-- come on the journey
-- remember why I started
-- remind readers why they want to read
-- envision where we want to go
+* come on the journey
+* remember why I started
+* remind readers why they want to read
+* envision where we want to go
 
 <p>I started this to store memories and to help me and anyone who reads along to catch more fish. If catching more fish sounds good to you or if you just like reading a good fish story, I hope you will join me on future posts and fishing adventures. You've already read this far, right?.</p>
