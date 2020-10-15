@@ -10,7 +10,7 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss">
 p {
   line-height: 1.5;
   font-size: 1.15rem;
@@ -25,5 +25,9 @@ h4,
 h5,
 h6 {
   font-size: 1.15rem;
+}
+
+li p {
+  margin-bottom: 0;
 }
 </style>

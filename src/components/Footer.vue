@@ -1,5 +1,5 @@
 <template>
-  <footer class="justify-self-end"></footer>
+  <footer class="justify-self-end mt-5"></footer>
 </template>
 
 <style lang="scss" scoped>
